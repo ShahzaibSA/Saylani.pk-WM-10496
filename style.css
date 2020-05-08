@@ -1,0 +1,167 @@
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('./fonts/OpenSans-Regular.ttf');
+} 
+@font-face {
+    font-family: 'Merriweather-Light';
+    src: url('./fonts/Merriweather-Light.ttf');
+}   
+.social{
+    color: #312929;
+    margin-right: 3px;
+    font-size: 22px;
+    text-decoration: none;
+    transition: 0.3s linear;
+}
+.social:hover{
+    color: #7ffb4eea;
+}
+.head-button{
+    color: #427900;
+    border: 1px solid #427900;
+    background-color: #ffffff;
+}
+.head-button:hover{
+    color: #427900;
+}
+/* .nav-position{
+    position: fixed;                    NAVBAR POSTION
+} */
+.nav-mar{
+    margin-right: 10px;
+}
+.nav-button{
+    padding: 8px 16px !important;
+    color: #427900;
+    border-radius: 1000px;
+    font-size: 14px !important;
+    font-family: 'OpenSans-Regular';
+}
+.nav-button:hover{
+    background-color: #316dc3;
+    color: #ffffff !important;
+}
+.home{
+    padding: 8px 16px !important;
+    color: #ffffff !important;
+    background-color: #316dc3;
+    border-radius: 1000px !important;
+    font-size: 14px !important;
+    font-family: 'OpenSans-Regular';
+}
+marquee{
+    margin-top: 10px;
+    padding: 5px;
+    background-color: #316DC3;
+    color: #ffffff;
+    font-family: 'Merriweather-Light';
+    font-size: 14px;
+}
+.heading1{
+    font-family: 'Merriweather-Light';
+    color: #316dc3;
+    font-weight: bold;
+}
+h2 span{
+    color: #427900;
+}
+
+
+.introduction{
+    color: #333333;
+    line-height: 1.5;
+    text-align: justify;
+    font-family: 'OpenSans-Regular';
+    width: 70%;
+    margin: 2% 15%;
+}
+.space{
+    color: #666666;
+    font-size: 15px;
+    line-height: 1.7em;
+    padding-bottom: 30px;
+
+}
+.icon{
+    color: #427900;
+}
+.about{
+    background-color: #1557b4;
+}
+.icon2{
+width: 50px;
+}
+
+.food, .family, .medical, .education{
+    color: #ffffff;
+    font-family: 'Merriweather-Light';
+    line-height: 3em;
+    letter-spacing: 1px;
+
+}
+.num{
+    font-size: 3em;
+}
+.alpha{
+    font-size: 14px;
+}
+.monthly{
+    color: rgb(38, 255, 0);
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+
+.boxes{
+    justify-content: space-around !important;
+    font-size: 1px !important;
+    border: 1px solid #d4d4d4;
+    margin: 10px auto;
+    padding: 20px 0px 20px 0px;
+}
+.mission{
+    color: #1557b4;
+}
+.slide-2{
+    background-color: #ffffff;
+    color: rgb(116, 116, 116);
+    width: 80%; 
+    height: 200px;
+}
+.footer1{
+    font-family: 'OpenSans-Regular';
+    font-weight: 100 !important;
+    background-color: #0c0c13e5;
+}
+.ft-content{
+    padding: 70px 70px;
+}
+
+.line{
+    line-height: 1px;  
+}
+.line-color{
+    font-weight: 900;
+    color: #427900;
+}
+
+.social-media a{
+    color: rgb(51, 129, 238);
+    font-size: 22px;
+    text-decoration: none;
+    transition: 0.3s linear;
+}
+.social-media a:hover{
+    color: #fc5c65;
+}
+
+.end{
+    background-color: #1557b4;
+}
+.end p{
+    font-size: 12px;
+    font-family: 'OpenSans-Regular';
+    margin: 10px 10px 10px 90px;
+}
+
+
+
